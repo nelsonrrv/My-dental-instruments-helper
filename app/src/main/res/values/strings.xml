@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My dental instruments helper</string>
+    <string name="logoIrene">logo</string>
+    <string name="btn1">Cirugía</string>
+    <string name="btn2">Endodoncia</string>
+    <string name="btn3">Restauradora</string>
+    <string name="btn4" />
+    <string name="btn5">Periodoncia</string>
+    <string name="btn6">Descartables</string>
+    <string name="imgInstr">InstrumentosPNG</string>
+    <string name="nomInst">Instrumento</string>
+    <string name="undCant">Cantidad</string>
+    <string name="marcaInst">Marca/Modelo</string>
+    <string name="addInstr">Agregar</string>
+    <string name="verLista">Ver lista</string>
+    <string name="backBtn">Regresar</string>
+    <string name="instNom">Instrumento:</string>
+    <string name="cantIns">Cantidad:</string>
+    <string name="marcInst">Marca/Modelo:</string>
+    <string name="modi">Modificar</string>
+</resources>

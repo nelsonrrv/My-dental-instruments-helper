@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mydentalinstrumentshelper"
+    >
+
+    <application
+
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyDentalInstrumentsHelper">
+        <activity android:name=".AddInstruments"/>
+        <activity android:name=".AddInstrumentsD"/>
+        <activity android:name=".AddInstrumentsE"/>
+        <activity android:name=".AddInstrumentsP"/>
+        <activity android:name=".AddInstrumentsR"/>
+        <activity android:name=".VerInstrumentosC"/>
+        <activity android:name=".VerInstrumentosD"/>
+        <activity android:name=".VerInstrumentosE"/>
+        <activity android:name=".VerInstrumentosP"/>
+        <activity android:name=".VerInstrumentosR"/>
+        <activity android:name=".ModificarInstrumentos"/>
+        <activity android:name=".ModificarInstrumentosD"/>
+        <activity android:name=".ModificarInstrumentosE"/>
+        <activity android:name=".ModificarInstrumentosP"/>
+        <activity android:name=".ModificarInstrumentosR"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
